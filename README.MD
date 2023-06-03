@@ -4,11 +4,11 @@ O AdMuterServer é uma aplicação de controle de volume versátil e eficaz para
 
 ## Protocolo UDP
 
-O protocolo UDP é ideal para esse tipo de aplicação devido à sua natureza livre de conexão e à sua eficiência na entrega de pequenas quantidades de dados. Com o UDP, os pacotes de dados são enviados sem a necessidade de uma conexão prévia, permitindo uma entrega rápida e eficiente dos comandos. Essa eficiência faz do AdMuterServer uma solução rápida e responsiva para controle de volume.
+O protocolo UDP é ideal para esse tipo de aplicação devido à sua natureza livre de conexão e à sua eficiência na entrega de pequenas quantidades de dados. Com o UDP, os pacotes de dados são enviados sem a necessidade de uma conexão prévia, permitindo uma entrega rápida e eficiente dos comandos. Essa eficiência faz do AdMuterServer uma solução rápida e responsiva para controle de volume :-) rsrsrs
 
 ## Expansibilidade
 
-O AdMuterServer foi projetado com a expansibilidade em mente. Embora o escopo atual esteja focado em comandos de mute e unmute, a estrutura da aplicação permite a inclusão de novos comandos com facilidade. Com pequenas modificações, é possível expandir a gama de comandos suportados para incluir outras funcionalidades do `nircmd.exe` ou até mesmo integrar outras ferramentas de linha de comando.
+O AdMuterServer foi projetado com a expansibilidade em mente. Embora o escopo atual esteja focado em comandos de mute e unmute, a estrutura da aplicação permite a inclusão de novos 'comandos' com facilidade. Com pequenas modificações, é possível expandir a gama de comandos suportados para incluir outras funcionalidades do `nircmd.exe` ou até mesmo integrar outras ferramentas de linha de comando.
 
 ## Compilação
 
